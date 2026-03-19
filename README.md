@@ -8,7 +8,7 @@ Desarrollo de apps móviles con Flutter · Desarrollo fullstack con Django · De
 
 
 **📌 Proyectos destacados**
-- 🔖 [Proyecto SMT] — Extensión de Chrome para seguimiento de cómics web (pendiente de publicación)
-- ⚙️ [Simple Automaton Simulator](#https://github.com/jtorrc/Simple-Automaton-Simulator) — Simulador de autómatas finitos con interfaz gráfica
+- 🔖 Proyecto SMT — Extensión de Chrome para seguimiento de cómics web (pendiente de publicación)
+- ⚙️ [Simple Automaton Simulator](https://github.com/jtorrc/Simple-Automaton-Simulator) — Simulador de autómatas finitos con interfaz gráfica
 - 📚 [Solución web para obras literarias](#) — TFG con Django + Scrapy + Playwright
 
