@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hola, soy Juan 👋
 
-<!--
-**opDataa/opDataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último año de Ingeniería Informática en la Universidad de Huelva, buscando prácticas.
 
-Here are some ideas to get you started:
+**💡 Intereses**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo de apps móviles con Flutter · Desarrollo fullstack con Django · Desarrollo de extensiones de Chrome
 
-- 🌱 I’m currently learning software engineering
+
+**📌 Proyectos destacados**
+- 🔖 [Proyecto SMT] — Extensión de Chrome para seguimiento de cómics web (pendiente de publicación)
+- ⚙️ [Simple Automaton Simulator](#https://github.com/jtorrc/Simple-Automaton-Simulator) — Simulador de autómatas finitos con interfaz gráfica
+- 📚 [Solución web para obras literarias](#) — TFG con Django + Scrapy + Playwright
+
